@@ -1,0 +1,5 @@
+requests==2.32.3
+colorama==0.4.6
+pytz==2024.1
+aiohttp==3.9.5
+websockets==12.0
