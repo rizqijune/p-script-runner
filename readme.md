@@ -31,7 +31,7 @@ Just run `./auto.sh` in the working directory if you already set this up.
 
 ## Todo
 
-- [ ] Make a debian package.
+- [x] Make a debian package or binary.
 - [ ] Setup python scripts inside this.
 - [x] Control the window generated.
 - [ ] Integrate GUI
