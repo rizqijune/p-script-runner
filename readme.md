@@ -1,6 +1,6 @@
-# Python Script Runner Utility
+# Script Runner Utility
 
-Ini adalah script bash yang dibuat untuk mempermudah menjalankan script python di Virtual Environment secara otomatis. Untuk script pythonnya bisa kalian cari di repo github developer kepercayaan anda.
+Ini adalah script bash yang dibuat untuk mempermudah menjalankan script python di Virtual Environment secara otomatis. Untuk script bisa kalian cari di repo github developer kepercayaan anda.
 
 [TOC]
 
@@ -27,13 +27,21 @@ Ini adalah script bash yang dibuat untuk mempermudah menjalankan script python d
 
 Just run `./auto.sh` in the working directory if you already set this up.
 
-> You need to place this bash on the same directory as the python scripts lies to make this work and make sure you are already setting up the python script before using this (See screenshot below)
+> You need to place this bash on the same directory as the scripts lies to make this work and make sure you are already setting up the script before using this (See screenshot below)
+
+![Screenshot](<img src="https://i.ibb.co.com/GF7BDQt/Screenshot-2024-07-05-22-27-11.png" alt="Screenshot-2024-07-05-22-27-11" border="0">)
+
+## Note
+You need to install the PHP first to run the PHP script
 
 ## Todo
 
-- [x] Make a debian package or binary.
+- [x] Make a debian package.
 - [ ] Setup python scripts inside this.
 - [x] Control the window generated.
+- [x] Add support for PHP script
+- [x] Add support for JS/Nodejs script
+- [ ] Add support for windows
 - [ ] Integrate GUI
 
 
