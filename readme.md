@@ -30,7 +30,7 @@ Just run `./auto.sh` in the working directory if you already set this up.
 
 > You need to place this bash on the same directory as the scripts lies to make this work and make sure you are already setting up the script before using this (See screenshot below)
 
-![Screenshot](<img src="https://i.ibb.co.com/GF7BDQt/Screenshot-2024-07-05-22-27-11.png" alt="Screenshot-2024-07-05-22-27-11" border="0">)
+![Screenshot](https://i.ibb.co.com/GF7BDQt/Screenshot-2024-07-05-22-27-11.png)
 
 ## Note
 You need to install the PHP first to run the PHP script
