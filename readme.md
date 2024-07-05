@@ -11,6 +11,7 @@ Ini adalah script bash yang dibuat untuk mempermudah menjalankan script python d
 - pyenv (Manager Python)
 - Python 3.10+
 - wmctrl
+- php (optional)
 
 ## How to use
 
