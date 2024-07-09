@@ -1,6 +1,6 @@
 # Script Runner Utility
 
-Ini adalah script bash yang dibuat untuk mempermudah menjalankan script python di Virtual Environment secara otomatis. Untuk script bisa kalian cari di repo github developer kepercayaan anda.
+Ini adalah script bash yang dibuat untuk mempermudah menjalankan script di Virtual Environment secara otomatis. Untuk scriptnya bisa kalian cari di repo developer kepercayaan anda.
 
 [TOC]
 
