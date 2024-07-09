@@ -41,7 +41,7 @@ You need to install the PHP first to run the PHP script
 - [ ] Setup python scripts inside this.
 - [x] Control the window generated.
 - [x] Add support for PHP script
-- [x] Add support for JS/Nodejs script
+- [ ] Add support for JS/Nodejs script
 - [ ] Add support for windows
 - [ ] Integrate GUI
 
